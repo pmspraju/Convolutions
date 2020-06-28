@@ -1,1 +1,1 @@
-# EECS-738-Labs
+# Covolution neural networks
